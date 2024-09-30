@@ -1,0 +1,3 @@
+javascript:downloadfile('VanBanGoc_45.2013.QH13.pdf','/FileData/TW/Lists/vbpq/Attachments/32833/VanBanGoc_45.2013.QH13.pdf');
+javascript:downloadfile('45.2013.QH13.doc','/TW/Lists/vbpq/Attachments/32833/45.2013.QH13.doc');
+javascript:downloadfile('VanBanGoc_45.2013.QH13.pdf','/FileData/TW/Lists/vbpq/Attachments/32833/VanBanGoc_45.2013.QH13.pdf');
